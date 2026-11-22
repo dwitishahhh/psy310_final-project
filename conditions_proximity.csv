@@ -1,0 +1,7 @@
+relevant_cue,congruence,target_orientation,spacing_x,spacing_y,color_pattern
+proximity,congruent,horizontal,1.0,1.5,rows
+proximity,congruent,vertical,1.5,1.0,cols
+proximity,incongruent,horizontal,1.0,1.5,cols
+proximity,incongruent,vertical,1.5,1.0,rows
+proximity,neutral,horizontal,1.0,1.5,none
+proximity,neutral,vertical,1.5,1.0,none

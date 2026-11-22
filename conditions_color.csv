@@ -1,0 +1,7 @@
+relevant_cue,congruence,target_orientation,spacing_x,spacing_y,color_pattern
+color,congruent,horizontal,1.0,1.5,rows
+color,congruent,vertical,1.5,1.0,cols
+color,incongruent,horizontal,1.5,1.0,rows
+color,incongruent,vertical,1.0,1.5,cols
+color,neutral,horizontal,1.25,1.25,rows
+color,neutral,vertical,1.25,1.25,cols
